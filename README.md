@@ -1,3 +1,4 @@
 # SMARTCONTRACT
 lEARNING SOLIDITY
 # SMARTCONTRACT
+# my first git repo
